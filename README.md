@@ -1,6 +1,6 @@
 ## Hi there 👋
 - I love to learn new technologies.
-- Currently working on MongoDB, Clickhouse, Elastic Search, Kafka, NodeJS, ExpressJS.
+- Currently working on MongoDB, Clickhouse, Elastic Search, Kafka, NodeJS (ExpressJS).
 
 - I know these tools and technologies
 
