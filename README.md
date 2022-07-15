@@ -1,22 +1,22 @@
-### Hi there 👋
-I love to learn new technologies.
-Currently working on MongoDB, Clickhouse, Elastic Search, Kafka, NodeJS, ExpressJS.
+## Hi there 👋
+- I love to learn new technologies.
+- Currently working on MongoDB, Clickhouse, Elastic Search, Kafka, NodeJS, ExpressJS.
 
-I know these tools and technologies
+- I know these tools and technologies
 
-Frontend:
+### Frontend:
 AngularJS
 
-Backend:
+### Backend:
 NodeJS, C language
 
-Mobile:
+### Mobile:
 Ionic
 
-Databases:
+### Databases:
 MongoDB, Clickhouse, Elastic Search, Redis, Kafka.
 
-DevOps:
+### DevOps:
 NginX, PM2, Dokers, 
 
 
