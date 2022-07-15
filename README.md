@@ -16,8 +16,11 @@ Ionic
 ### Databases:
 MongoDB, Clickhouse, Elastic Search, Redis, Kafka.
 
+### On-Premise:
+KVM/Qemu, Vmware vSphere
+
 ### DevOps:
-NginX, PM2, Dokers, 
+NginX, PM2, Dokers, Apache Superset
 
 
 
